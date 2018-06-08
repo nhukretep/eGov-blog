@@ -26,13 +26,13 @@ Bei der Metropolregion Rhein-Neckar in Mannheim war ich vom 12. März bis zum 20
 
 #### Doodle und die öffentliche Verwaltung
 
-Während in der privaten Wirtschaft Online-Werkzeuge wie Doodle zur Terminfindung oder Dropbox zum Teilen von Dokumenten weit verbreitet sind, ist deren Nutzung in der öffentlichen Verwaltung problematisch. Das liegt insbesondere an fehlendem Datenschutz, weshalb solche Tools in vielen Verwaltungen nicht erlaubt sind. Rechtssichere Alternativen gibt es jedoch auch keine, was zur Folge hat, dass Doodle und Co. in der öffentlichen Verwaltung entweder gar nicht oder im rechtlichen Graubereich verwendet werden. 
+in der privaten Wirtschaft Online-Werkzeuge wie Doodle zur Terminfindung oder Dropbox zum Teilen von Dokumenten weit verbreitet sind, ist deren Nutzung in der öffentlichen Verwaltung problematisch. Das liegt insbesondere an fehlendem Datenschutz, weshalb solche Tools in vielen Verwaltungen nicht erlaubt sind. Rechtssichere Alternativen gibt es jedoch auch keine, was zur Folge hat, dass Doodle und Co. in der öffentlichen Verwaltung entweder gar nicht oder im rechtlichen Graubereich verwendet werden. 
 
 Alternativen zu schaffen, wäre technisch kein Problem. Beispielsweise gibt es mit [bitpoll](https://github.com/fsinfuhh/BitPoll) eine Open Source Lösung der Fachschaft Informatik an der Uni Hamburg, die als Doodle-Alternative geeignet und von der öffentlichen Verwaltung zur Terminfindung betrieben werden könnte. Auch für anderen Online-Werkzeuge gibt es solche Möglichkeiten.
 
 #### Projekt Kooperationsplattform
 
-Wie die meisten Verwaltungen stehen auch die Kommunen der Metropolregion Rhein-Neckar vor Problem Doodle nicht nutzen zu können, weshalb jetzt eine Kooperationsplattform geschaffen werden soll, die solche Online-Werkzeuge für eine Nutzung in der öffentlichen Verwaltung verfügbar macht.
+![screenshot-plattform](media\screenshot-plattform.png)Wie die meisten Verwaltungen stehen auch die Kommunen der Metropolregion Rhein-Neckar vor Problem Doodle nicht nutzen zu können, weshalb jetzt eine Kooperationsplattform geschaffen werden soll, die solche Online-Werkzeuge für eine Nutzung in der öffentlichen Verwaltung verfügbar macht.
 
 > #### Die Metropolregion Rhein-Neckar
 >
