@@ -55,7 +55,3 @@ Der Prototyp wurde in Kooperation mit einem lokalen Rechenzentrum umgesetzt und 
 #### Weiteres Vorgehen
 
 Zur Zeit sucht die Metropolregion Rhein-Neckar nach Partnern für weitere Schritte, nach Möglichkeit soll die Plattform schon bald die Arbeit der Arbeitskreise unterstützen.
-
-## Station 4: fortiss
-
-Seit dem 1. Juni bin ich im Team für *Open Data and Information Management* (ODIM) bei [fortiss](https://www.fortiss.org).
